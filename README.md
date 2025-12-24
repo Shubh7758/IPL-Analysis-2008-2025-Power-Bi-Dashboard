@@ -256,7 +256,7 @@ teams_data (Dimension Table)
 For questions, suggestions, or issues:
 - **Email:** [Shubhamshevare5@gmail.com]
 - **LinkedIn:** https://www.linkedin.com/in/shubham-shevare-b04a621a0
-- **Documentation:** [https://github.com/Shubh7758/business-analysis-dashboard/wiki]
+
 ## 📊 Sample Visuals
 
  ![Dashboard Preview](https://github.com/Shubh7758/IPL-Analysis-2008-2025-Power-Bi-Dashboard/blob/main/IPL%20Analysis%20(2008-2025)%20Photo.PNG).
